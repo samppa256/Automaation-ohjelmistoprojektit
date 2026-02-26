@@ -1,1 +1,1 @@
-1.
+1. Aggregaatio yhdistää RobotArmin, sekä AssemblyStationiin että MobileRobottiin. Jolloin siis luodaan uusi RobotArm aina kun luodaan uusi MobileRobot tai AssemblyStation. Kun meillä on 3 AssemblyStationia sekä 2 MobileRobottia, niin Cell solussa on yhteensä 5 RobotArmia
