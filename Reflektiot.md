@@ -8,7 +8,7 @@ d. Tasolla on laatikon muotoinen geometria, joka liitetään MobileRobot noodiin
 Reflektio:
 
 1. Miten UML luokkakaaviota käytetään seuraavissa tilanteissa:
-**a. Ohjelmistoa suunniteltaessa**
+\n**a. Ohjelmistoa suunniteltaessa**
   Selkeyttää kokonaiskuvan hahmottamista. Tässä vaiheessa    suunnitellaan sopivat luokat ja niiden väliset yhteydet
 b. Suunnittelun jälkeen, kun koodaustyötä jaetaan tiimissä
 c. Valmiin ohjelmiston dokumentointiin
