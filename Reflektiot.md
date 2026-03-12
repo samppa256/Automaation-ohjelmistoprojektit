@@ -24,7 +24,7 @@ Reflektio:
 2. Jos MobileRobot kyytiin laitetaan kappale, niin kuinka 3D pelimoottorin ominaisuuksia voidaan
 hyödyntää niin, että kappale liikkuu MobileRobotin mukana?
 
-
+- Node-ominaisuutta.
 
 3. Monella kurssilaisella on tietotekniikan sivuaine, mutta emme voi olettaa sellaista esitietoa.
 Kurssi on pyritty suorittamaan niin, että kaikki pääsee etenemään omaan tahtiin. Mitä esitietoa
