@@ -29,4 +29,25 @@ hyödyntää niin, että kappale liikkuu MobileRobotin mukana?
 3. Monella kurssilaisella on tietotekniikan sivuaine, mutta emme voi olettaa sellaista esitietoa.
 Kurssi on pyritty suorittamaan niin, että kaikki pääsee etenemään omaan tahtiin. Mitä esitietoa
 sinulla on ohjelmistojen suunnitteluun ja visuaaliseen mallintamiseen esimerkiksi UML:llä? 
+
+
+
+
+
+Sekvenssien suunnittelu
+1. Mikä on mielestäsi matalin järkevä abstraktiotaso UML sekvenssikaaviolle ennen kuin
+kannattaa siirtyä koodaamaan?
+Niin matala, että selviää luokat, luokkien väliset rajapinnat.
+
+
+3. Tehtävänannossa mainittiin kaksi yleisesti käytettyä UML kaavion abstraktiotasoa: konsepti, ja
+spesifikaatio perspektiivit. Kumpaa kannattaa käyttää seuraavissa tilanteissa? Perustele
+valintasi:
+a. Suunnittelijatiimin brainstorming-sessio
+Konsepti
+b. Ohjelmistoarkkitehdin työn tuotokset, jotka jaetaan koodareille lähtötiedoksi
+Spesifikaatio 
+5. Miten paljon UML kaavioita kannattaa piirtää, että niistä olisi oikeasti hyötyä?
+
+
  
